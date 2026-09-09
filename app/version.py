@@ -7,7 +7,7 @@ bump() 可递增版本并写回本文件，便于每次 release 区分版本号�
 import re
 
 APP_NAME = "QRZCloudlogSync"
-VERSION = "1.1.11"
+VERSION = "1.1.12"
 _THIS = __file__
 
 
