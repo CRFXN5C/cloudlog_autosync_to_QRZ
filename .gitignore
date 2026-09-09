@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# 构建产物
+build/
+dist/
+*.spec
+*.exe
+
+# 本地数据 / 配置（含凭据、日志、同步状态、浏览器会话）
+config.json
+logs/
+state/
+profiles/
+selftest_browser.txt
+*_profile/
+*.log
+
+# 系统 / 编辑器
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
